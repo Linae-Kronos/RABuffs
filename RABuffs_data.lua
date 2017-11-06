@@ -1005,6 +1005,9 @@ RAB_Buffs = 	{
             shadowpot={name="Greater Shadow Protection Potion",textures={"Spell_Shadow_RagingScream"},castClass="Item",type="self"},
             firepot={name="Greater Fire Protection Potion",textures={"Spell_Fire_FireArmor"},castClass="Item",type="self"},
             frostpot={name="Greater Frost Protection Potion",textures={"Spell_Frost_FrostArmor"},castClass="Item",type="self"},
+
+            majortrollblood={name="Major Troll's Blood Potion",textures={"INV_Potion_80"},castClass="Item",type="self"},
+            mightytrollblood={name="Mighty Troll's Blood Potion",textures={"INV_Potion_79"},castClass="Item",type="self"},
             
             spelldmg={name="Flask of Supreme Power",textures={"INV_Potion_41"},castClass="Item",type="self"},
             wisdom={name="Flask of Distilled Wisdom",textures={"INV_Potion_97"},castClass="Item",type="self"},
