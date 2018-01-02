@@ -972,8 +972,10 @@ RAB_Buffs = 	{
 			flag={name="WSG Flag",textures={"INV_BannerPVP_01","INV_BannerPVP_02"},invert=true,havebuff="Carrying Flag",missbuff="No Flag"},
 			battlestandard={name="Battle Standard",textures={"INV_Banner_02","INV_Banner_01"},castClass="Item",invert=true,type="aura"},
 
-			zandalarbuff={name="Spirit of Zandalar",textures={"Ability_Creature_Poison_05"}, type="special"}, 
 			dragonslayer={name="Rallying Cry of the Dragonslayer",textures={"INV_Misc_Head_Dragon_01"}, type="special"},
+			warchiefbuff={name="Warchief's Blessing",textures={"spell_arcane_teleportorgrimmar"}, type="special"}, 
+			zandalarbuff={name="Spirit of Zandalar",textures={"Ability_Creature_Poison_05"}, type="special"}, 
+			songflower={name="Songflower Serenade",textures={"spell_holy_mindvision"}, type="special"}, 
 			fengus={name="Fengus' Ferocity (DM-N Tribute)",textures={"Spell_Nature_UndyingStrength"}, type="special"},
 			slipkik={name="Slip'kik's Savvy (DM-N Tribute)",textures={"Spell_Holy_LesserHeal02"}, type="special"},
 			moldar={name="Mol'dar's Moxie (DM-N Tribute)",textures={"Spell_Nature_MassTeleport"}, type="special"},
